@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gamreg"]
+	path = gamreg
+	url = https://github.com/cran/gamreg
+	shallow = true
+	registered = true
